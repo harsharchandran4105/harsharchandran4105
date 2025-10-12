@@ -3,7 +3,7 @@
 🎓 **M.Tech Student at NIT Goa**  
 🤖 **Machine Learning Engineer | AI Research Enthusiast | Data-Driven Innovator**
 
----
+
 
 ## 🧠 About Me
 
@@ -11,7 +11,7 @@ I’m passionate about exploring the intersection of **Machine Learning, Deep Le
 
 Currently, I’m working on projects that blend **predictive modeling, data analytics, and model deployment**, while deepening my understanding of **transformers, diffusion models, and LLMs**.
 
----
+
 
 ## 🚀 What I Do
 
@@ -19,7 +19,7 @@ Currently, I’m working on projects that blend **predictive modeling, data anal
 - 🧮 Skilled in **data analysis**, **visualization**, and **machine learning model development**
 - 💡 Exploring **transformer-based architectures**, **generative AI**, and **next-gen ML systems**
 
----
+
 
 ### 🧰 Tech Stack & Tools
 
@@ -48,7 +48,7 @@ Currently, I’m working on projects that blend **predictive modeling, data anal
 </p>
 
 
----
+
 
 ## 🧩 Featured Project
 
@@ -61,7 +61,7 @@ A complete machine learning workflow for telecom data:
 
 👉 *[View Project Repository (Coming Soon!)](#)*
 
----
+
 
 ## 🧠 My Focus
 
@@ -72,7 +72,7 @@ I’m constantly working to expand my skill set in:
 - Model Explainability & Optimization  
 - Generative AI and Transformer-based Architectures  
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -81,7 +81,6 @@ I’m constantly working to expand my skill set in:
 📊 **Kaggle:** [kaggle.com/harsharchandran41](https://www.kaggle.com/harsharchandran41)  
 🤗 **Hugging Face:** [huggingface.co/harsharc41](https://huggingface.co/harsharc41)
 
----
 
 ## 🏷️ Badges
 
@@ -90,18 +89,18 @@ I’m constantly working to expand my skill set in:
 ![AI](https://img.shields.io/badge/AI%20Research-Enthusiast-purple?style=for-the-badge&logo=openai)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Professional-orange?style=for-the-badge&logo=powerbi)
 
----
+
 
 <!-- ## 📈 GitHub Stats (to add later)
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsharc05&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsharc05&layout=compact&theme=radical)
 -->
 
----
+
 
 ## 💬 Fun Fact  
 > Always curious about how intelligence emerges from data.
 
----
+
 
 ⭐️ *Thanks for visiting my profile — feel free to explore my repositories or connect to collaborate on AI/ML research!*
