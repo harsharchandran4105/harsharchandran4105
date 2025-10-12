@@ -59,7 +59,8 @@ A complete machine learning workflow for telecom data:
 - Deployed an interactive **Streamlit web app** for real-time predictions  
 - Designed a **retention strategy dashboard** for business insights  
 
-👉 *[(https://github.com/harsharchandran4105/Customer-insight-engine)](#)*
+👉 [Customer Insight Engine Repository](https://github.com/harsharchandran4105/Customer-insight-engine)
+
 
 
 
