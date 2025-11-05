@@ -69,7 +69,7 @@ Deep learning-based counterfeit banknote detection model using TensorFlow.
 - Implemented an **end-to-end ML workflow** including data preprocessing, feature scaling, model training, and evaluation  
 - Deployed the trained model on a **Flask-based web application** for real-time authentication  
 
-👉 [Bank Note Authentication Repository](https://github.com/harsharchandran4105/Bank-Note-Authentication-System)
+👉 [Bank Note Authentication Repository](https://github.com/harsharchandran4105/BankAuth.git)
 
 ---
 
@@ -81,7 +81,7 @@ A retrieval-augmented generation system designed for factual Q&A using **Nobel P
 - Created both **Streamlit web interface** and **FastAPI REST API** for deployment and testing  
 - Demonstrated **domain-specific question answering** using structured Nobel Prize data  
 
-👉 [RAG Nobel Repository](https://github.com/harsharchandran4105/rag-nobel-2025)
+👉 [RAG Nobel Repository](https://github.com/harsharchandran4105/Nobel-RAG.git)
 
 ---
 
