@@ -1,9 +1,9 @@
- # 👋 Hey there, I'm Harsha R Chandran (harsharc05)
+# 👋 Hey there, I'm Harsha R Chandran (harsharc05)
 
 🎓 **M.Tech Student at NIT Goa**  
 🤖 **Machine Learning Engineer | AI Research Enthusiast | Data-Driven Innovator**
 
-
+---
 
 ## 🧠 About Me
 
@@ -11,15 +11,15 @@ I’m passionate about exploring the intersection of **Machine Learning, Deep Le
 
 Currently, I’m working on projects that blend **predictive modeling, data analytics, and model deployment**, while deepening my understanding of **transformers, diffusion models, and LLMs**.
 
-
+---
 
 ## 🚀 What I Do
 
 - 🧩 Built an **Integrated Customer Churn Prediction, Segmentation, and Retention Model** for a telecom dataset using *Logistic Regression*  
-- 🧮 Skilled in **data analysis**, **visualization**, and **machine learning model development**
-- 💡 Exploring **transformer-based architectures**, **generative AI**, and **next-gen ML systems**
+- 🧮 Skilled in **data analysis**, **visualization**, and **machine learning model development**  
+- 💡 Exploring **transformer-based architectures**, **retrieval-augmented generation (RAG)**, and **next-gen AI systems**
 
-
+---
 
 ### 🧰 Tech Stack & Tools
 
@@ -47,12 +47,11 @@ Currently, I’m working on projects that blend **predictive modeling, data anal
   <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
 </p>
 
+---
 
+## 🧩 Featured Projects
 
-
-## 🧩 Featured Project
-
-### 📊 Integrated Customer Churn, Segmentation & Retention Model
+### 🧮 Integrated Customer Churn, Segmentation & Retention Model  
 A complete machine learning workflow for telecom data:  
 - Performed **data preprocessing, EDA, and feature engineering**  
 - Implemented **Logistic Regression** for churn prediction  
@@ -61,19 +60,42 @@ A complete machine learning workflow for telecom data:
 
 👉 [Customer Insight Engine Repository](https://github.com/harsharchandran4105/Customer-insight-engine)
 
+---
 
+### 💵 Bank Note Authentication System (TensorFlow) *(Apr 2025)*  
+Deep learning-based counterfeit banknote detection model using TensorFlow.  
+- **Tools & Technologies:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Flask  
+- Developed a deep neural network model to classify authentic and counterfeit banknotes using **statistical image features derived from Wavelet Transforms**  
+- Implemented an **end-to-end ML workflow** including data preprocessing, feature scaling, model training, and evaluation  
+- Deployed the trained model on a **Flask-based web application** for real-time authentication  
 
+👉 [Bank Note Authentication Repository](https://github.com/harsharchandran4105/Bank-Note-Authentication-System)
+
+---
+
+### 🧠 Retrieval-Augmented Generation (RAG) System — Nobel Prize Knowledge Base *(Nov 2025)*  
+A retrieval-augmented generation system designed for factual Q&A using **Nobel Prize 2025** data.  
+- **Tools & Technologies:** Python, FAISS, Sentence-Transformers, Streamlit, FastAPI, NumPy, Pandas, Scikit-learn  
+- Built a **semantic retrieval pipeline** using FAISS and dense embeddings for document similarity search  
+- Implemented **local context-based text generation** for knowledge-grounded answers  
+- Created both **Streamlit web interface** and **FastAPI REST API** for deployment and testing  
+- Demonstrated **domain-specific question answering** using structured Nobel Prize data  
+
+👉 [RAG Nobel Repository](https://github.com/harsharchandran4105/rag-nobel-2025)
+
+---
 
 ## 🧠 My Focus
 
 > “Turning data into intelligence, and intelligence into innovation.”
 
-I’m constantly working to expand my skill set in:
+I’m currently focused on:
 - Machine Learning & Deep Learning  
-- Model Explainability & Optimization  
+- Model Optimization & Explainability  
 - Generative AI and Transformer-based Architectures  
+- Efficient Retrieval & RAG Systems  
 
-
+---
 
 ## 🔗 Connect With Me
 
@@ -82,6 +104,7 @@ I’m constantly working to expand my skill set in:
 📊 **Kaggle:** [kaggle.com/harsharchandran41](https://www.kaggle.com/harsharchandran41)  
 🤗 **Hugging Face:** [huggingface.co/harsharc41](https://huggingface.co/harsharc41)
 
+---
 
 ## 🏷️ Badges
 
@@ -90,18 +113,9 @@ I’m constantly working to expand my skill set in:
 ![AI](https://img.shields.io/badge/AI%20Research-Enthusiast-purple?style=for-the-badge&logo=openai)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Professional-orange?style=for-the-badge&logo=powerbi)
 
-
-
-<!-- ## 📈 GitHub Stats (to add later)
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harsharc05&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harsharc05&layout=compact&theme=radical)
--->
-
-
+---
 
 ## 💬 Fun Fact  
 > Always curious about how intelligence emerges from data.
 
-
-
-⭐️ *Thanks for visiting my profile — feel free to explore my repositories or connect to collaborate on AI/ML research!*
+⭐ *Thanks for visiting my profile — feel free to explore my repositories or connect to collaborate on AI/ML research!*
