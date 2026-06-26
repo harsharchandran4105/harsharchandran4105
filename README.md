@@ -91,52 +91,59 @@ https://github.com/harsharchandran4105/BankAuth
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
-</p>
+### Programming Languages
+
+* Python
+* SQL
+* C
 
 ### AI / Machine Learning
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-</p>
+
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* Hugging Face Transformers
 
 ### LLM Engineering
-- LangChain
-- LangGraph
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI
-- Responsible AI
+
+* LangChain
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI
+* Responsible AI
 
 ### Retrieval Systems
-- ChromaDB
-- BM25
-- FAISS
-- Cross-Encoder Reranking
-- Reciprocal Rank Fusion (RRF)
-- RAGAS
+
+* BM25
+* ChromaDB
+* FAISS
+* Cross-Encoder Reranking
+* Reciprocal Rank Fusion (RRF)
+* RAGAS
 
 ### Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=apache,spark" />
-</p>
 
-**Databricks • PySpark • Delta Lake • ETL Pipelines**
+* Databricks
+* Apache Spark
+* PySpark
+* Delta Lake
+* ETL Pipelines
 
 ### Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
-</p>
 
-**Streamlit**
+* FastAPI
+* Flask
+* Streamlit
 
 ### Developer Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
 
+* Git
+* GitHub
+
+---
+ 
 # 🏆 Achievements
 
 * 🥇 First Rank Holder — B.Tech Computer Science & Engineering
