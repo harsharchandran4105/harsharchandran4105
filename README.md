@@ -1,115 +1,183 @@
-# 👋 Hey there, I'm Harsha R Chandran (harsharc05)
+# Hi, I'm Harsha R Chandran 👋
 
-🎓 **M.Tech Student at NIT Goa**  
-🤖 **Machine Learning Engineer | AI Research Enthusiast | Data-Driven Innovator**
-
----
-
-## 🧠 About Me
-
-I’m passionate about exploring the intersection of **Machine Learning, Deep Learning, and Generative AI** — building intelligent systems that combine solid analytical grounding with creative experimentation.  
-
-Currently, I’m working on projects that blend **predictive modeling, data analytics, and model deployment**, while deepening my understanding of **transformers, diffusion models, and LLMs**.
+🎓 **M.Tech in Computer Science & Engineering** @ National Institute of Technology Goa
+🤖 **AI/ML Engineer | LLMs | Agentic AI | Retrieval-Augmented Generation | Data Engineering**
 
 ---
 
-## 🚀 What I Do
+## 🚀 About Me
 
-- 🧩 Built an **Integrated Customer Churn Prediction, Segmentation, and Retention Model** for a telecom dataset using *Logistic Regression*  
-- 🧮 Skilled in **data analysis**, **visualization**, and **machine learning model development**  
-- 💡 Exploring **transformer-based architectures**, **retrieval-augmented generation (RAG)**, and **next-gen AI systems**
+I'm an AI/ML engineer and M.Tech student passionate about building intelligent systems that bridge **research and production**.
 
----
+My interests span **Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Agentic AI, Responsible AI, Information Retrieval, and Enterprise Data Engineering**. I enjoy designing modular AI systems that are scalable, explainable, and deployable.
 
-### 🧰 Tech Stack & Tools
-
-#### 💻 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
-</p>
-
-#### 🧠 ML / AI Libraries
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="jupyter" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="matplotlib" width="40" height="40"/>
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-</p>
-
-#### 📊 Data Visualization & Analytics
-<p align="left">
-  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/power-bi-icon.png" alt="Power BI" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="Excel" width="40" height="40"/>
-</p>
+Currently, I'm contributing to enterprise data engineering solutions at **Accenture** while pursuing research-oriented projects in modern AI systems.
 
 ---
 
-## 🧩 Featured Projects
+## 🔭 Current Focus
 
-### 🧮 Integrated Customer Churn, Segmentation & Retention Model  
-A complete machine learning workflow for telecom data:  
-- Performed **data preprocessing, EDA, and feature engineering**  
-- Implemented **Logistic Regression** for churn prediction  
-- Deployed an interactive **Streamlit web app** for real-time predictions  
-- Designed a **retention strategy dashboard** for business insights  
-
-👉 [Customer Insight Engine Repository](https://github.com/harsharchandran4105/Customer-insight-engine)
+* 🤖 Agentic AI & Large Language Models
+* 🔎 Hybrid Retrieval-Augmented Generation (RAG)
+* 🧠 Responsible AI & Hallucination Detection
+* 📚 Information Retrieval & Semantic Search
+* ⚡ Enterprise Data Engineering using Databricks
+* 📖 Applied Machine Learning Research
 
 ---
 
-### 💵 Bank Note Authentication System (TensorFlow) *(Apr 2025)*  
-Deep learning-based counterfeit banknote detection model using TensorFlow.  
-- **Tools & Technologies:** TensorFlow, Keras, Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib, Flask  
-- Developed a deep neural network model to classify authentic and counterfeit banknotes using **statistical image features derived from Wavelet Transforms**  
-- Implemented an **end-to-end ML workflow** including data preprocessing, feature scaling, model training, and evaluation  
-- Deployed the trained model on a **Flask-based web application** for real-time authentication  
+# 🚀 Featured Projects
 
-👉 [Bank Note Authentication Repository](https://github.com/harsharchandran4105/BankAuth.git)
+## RAGEVAL-X — Agentic RAG with Hybrid Retrieval
 
----
+A production-style Retrieval-Augmented Generation system implementing modern LLM engineering practices.
 
-### 🧠 Retrieval-Augmented Generation (RAG) System — Nobel Prize Knowledge Base *(Nov 2025)*  
-A retrieval-augmented generation system designed for factual Q&A using **Nobel Prize 2025** data.  
-- **Tools & Technologies:** Python, FAISS, Sentence-Transformers, Streamlit, FastAPI, NumPy, Pandas, Scikit-learn  
-- Built a **semantic retrieval pipeline** using FAISS and dense embeddings for document similarity search  
-- Implemented **local context-based text generation** for knowledge-grounded answers  
-- Created both **Streamlit web interface** and **FastAPI REST API** for deployment and testing  
-- Demonstrated **domain-specific question answering** using structured Nobel Prize data  
+### Highlights
 
-👉 [RAG Nobel Repository](https://github.com/harsharchandran4105/Nobel-RAG.git)
+* LangGraph-based retrieve → generate → verify workflow
+* Hybrid Retrieval using BM25 + ChromaDB + Reciprocal Rank Fusion
+* Cross-Encoder reranking for improved retrieval relevance
+* Automated evaluation using RAGAS
+* Hallucination detection and Responsible AI validation
+* Streamlit interface with FastAPI backend
 
----
+**Tech Stack**
 
-## 🧠 My Focus
+Python • LangGraph • LangChain • ChromaDB • BM25 • RAGAS • FastAPI • Streamlit
 
-> “Turning data into intelligence, and intelligence into innovation.”
-
-I’m currently focused on:
-- Machine Learning & Deep Learning  
-- Model Optimization & Explainability  
-- Generative AI and Transformer-based Architectures  
-- Efficient Retrieval & RAG Systems  
+🔗 Repository:
+https://github.com/harsharchandran4105/RAGEVAL-X
 
 ---
 
-## 🔗 Connect With Me
+## Retrieval-Augmented Generation System
 
-🌐 **LinkedIn:** [linkedin.com/in/harsharchandran](https://www.linkedin.com/in/harsharchandran/)  
-✍️ **Medium:** [medium.com/@harsharchandran41](https://medium.com/@harsharchandran41)  
-📊 **Kaggle:** [kaggle.com/harsharchandran41](https://www.kaggle.com/harsharchandran41)  
-🤗 **Hugging Face:** [huggingface.co/harsharc41](https://huggingface.co/harsharc41)
+Semantic document retrieval and question answering using dense vector search over a domain-specific knowledge base.
+
+**Tech Stack**
+
+Python • FAISS • Sentence Transformers • FastAPI • Streamlit
+
+🔗 Repository:
+https://github.com/harsharchandran4105/Nobel-RAG
 
 ---
 
-## 🏷️ Badges
+## Customer Insight Engine
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Expert-blue?style=for-the-badge&logo=tensorflow)
-![Python](https://img.shields.io/badge/Python-3.9+-brightgreen?style=for-the-badge&logo=python)
+End-to-end telecom analytics system integrating customer churn prediction and segmentation.
+
+🏆 First Place Paper Award — SNSIR 5.0
+
+**Tech Stack**
+
+Python • Scikit-learn • Streamlit
+
+🔗 Repository:
+https://github.com/harsharchandran4105/Customer-insight-engine
+
+---
+
+## Bank Note Authentication System
+
+Deep learning-based counterfeit currency detection using TensorFlow.
+
+**Tech Stack**
+
+TensorFlow • Flask • Scikit-learn
+
+🔗 Repository:
+https://github.com/harsharchandran4105/BankAuth
+
+---
+
+# 🛠 Technical Skills
+
+### Programming Languages
+
+* Python
+* SQL
+* C
+
+### AI / Machine Learning
+
+* PyTorch
+* TensorFlow
+* Scikit-learn
+* Hugging Face Transformers
+
+### LLM Engineering
+
+* LangChain
+* LangGraph
+* Retrieval-Augmented Generation (RAG)
+* Agentic AI
+* Responsible AI
+
+### Retrieval Systems
+
+* BM25
+* ChromaDB
+* FAISS
+* Cross-Encoder Reranking
+* Reciprocal Rank Fusion (RRF)
+* RAGAS
+
+### Data Engineering
+
+* Databricks
+* Apache Spark
+* PySpark
+* Delta Lake
+* ETL Pipelines
+
+### Backend
+
+* FastAPI
+* Flask
+* Streamlit
+
+### Developer Tools
+
+* Git
+* GitHub
+
+---
+
+# 🏆 Achievements
+
+* 🥇 First Rank Holder — B.Tech Computer Science & Engineering
+* 🏆 First Place Paper Award — SNSIR 5.0
+* 🎓 M.Tech (Computer Science & Engineering), NIT Goa
+* 📈 GATE CS 2025 — AIR 3156
+* 📈 GATE DA 2025 — AIR 4032
+
+---
+
+# 📚 Research Interests
+
+* Large Language Models
+* Agentic AI
+* Retrieval-Augmented Generation
+* Information Retrieval
+* Responsible AI
+* Enterprise AI Systems
+* Data Engineering
+* Applied Machine Learning
+
+---
+
+# 🌐 Connect With Me
+
+* 💼 LinkedIn
+* 🤗 Hugging Face
+* 📊 Kaggle
+* ✍️ Medium
+
+---
+
+> **"Building AI systems that are accurate, reliable, and deployable—from research prototypes to production-ready solutions."**
+
 ![AI](https://img.shields.io/badge/AI%20Research-Enthusiast-purple?style=for-the-badge&logo=openai)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Professional-orange?style=for-the-badge&logo=powerbi)
 
