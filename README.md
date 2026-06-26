@@ -91,58 +91,51 @@ https://github.com/harsharchandran4105/BankAuth
 
 ---
 
-# 🛠 Technical Skills
+## 🛠 Tech Stack
 
-### Programming Languages
-
-* Python
-* SQL
-* C
+### Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,mysql" />
+</p>
 
 ### AI / Machine Learning
-
-* PyTorch
-* TensorFlow
-* Scikit-learn
-* Hugging Face Transformers
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+</p>
 
 ### LLM Engineering
-
-* LangChain
-* LangGraph
-* Retrieval-Augmented Generation (RAG)
-* Agentic AI
-* Responsible AI
+- LangChain
+- LangGraph
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI
+- Responsible AI
 
 ### Retrieval Systems
-
-* BM25
-* ChromaDB
-* FAISS
-* Cross-Encoder Reranking
-* Reciprocal Rank Fusion (RRF)
-* RAGAS
+- ChromaDB
+- BM25
+- FAISS
+- Cross-Encoder Reranking
+- Reciprocal Rank Fusion (RRF)
+- RAGAS
 
 ### Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=apache,spark" />
+</p>
 
-* Databricks
-* Apache Spark
-* PySpark
-* Delta Lake
-* ETL Pipelines
+**Databricks • PySpark • Delta Lake • ETL Pipelines**
 
 ### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask" />
+</p>
 
-* FastAPI
-* Flask
-* Streamlit
+**Streamlit**
 
 ### Developer Tools
-
-* Git
-* GitHub
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 # 🏆 Achievements
 
@@ -169,10 +162,9 @@ https://github.com/harsharchandran4105/BankAuth
 
 # 🌐 Connect With Me
 
-* 💼 LinkedIn
-* 🤗 Hugging Face
-* 📊 Kaggle
-* ✍️ Medium
+- 💼 **LinkedIn:** www.linkedin.com/in/harsharchandran
+- 🤗 **Hugging Face:** https://medium.com/@harsharchandran41
+- ✍️ **Medium:** https://medium.com/@YOUR-USERNAME
 
 ---
 
